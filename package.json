@@ -9,6 +9,9 @@
   },
   "dependencies": {
     "core-js": "^3.8.3",
+    "markdown-it": "^13.0.1",
+    "markdown-it-abbr": "^1.0.4",
+    "markdown-it-highlightjs": "^4.0.1",
     "vue": "^3.2.13"
   },
   "devDependencies": {
